@@ -52,3 +52,4 @@ opentelemetry-semantic-conventions==0.52b1
 opentelemetry-instrumentation==0.52b1
 azure-monitor-opentelemetry==1.6.8
 azure-ai-projects==1.0.0b11
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
